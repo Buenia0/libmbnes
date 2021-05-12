@@ -1,2 +1,2 @@
-# libmbnes
+# libmbNES
 NES emulation library, kinda
